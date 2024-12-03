@@ -26,6 +26,8 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/resl133/imguiloader-monarch-athena.git
+git clone https://github.com/resl1337/imguiloader-monarch-athena.git
 Open the project in your favorite IDE or editor.
 Integrate it with your project as needed.
+
+![screenshot of the loader](https://i.imgur.com/GnwkkrG.png)
