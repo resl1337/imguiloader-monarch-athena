@@ -31,3 +31,7 @@ Open the project in your favorite IDE or editor.
 Integrate it with your project as needed.
 
 ![screenshot of the loader](https://i.imgur.com/GnwkkrG.png)
+
+![screenshot of the changelog](https://i.imgur.com/GdXNiyT.png)
+
+
