@@ -1,13 +1,13 @@
 # imguiloader-monarch-athena
-Athena Loader GUI
+
 This repository contains the Athena Loader GUI, a graphical user interface (GUI) built using ImGui. This GUI was originally commissioned for my project as part of a rebrand for a cheat client I purchased from "Howie," the developer behind the "Athena" project.
 
-The Story
+
 I commissioned this GUI from a designer to be used exclusively in my rebranded client. Unfortunately, Howie was unable to implement it into the client as agreed. Instead of fulfilling his commitment, he took the GUI that I paid for and implemented it into his own project, effectively scamming me.
 
 As a result, I’ve decided to upload the GUI to GitHub to expose this unethical behavior and share the work I funded with the community.
 
-Features
+
 Built using ImGui, ensuring a fast and lightweight experience.
 A clean, modern design intended for loader applications.
 Fully customizable and adaptable for use in other projects.
