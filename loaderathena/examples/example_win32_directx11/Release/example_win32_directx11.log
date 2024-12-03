@@ -1,0 +1,120 @@
+﻿  main.cpp
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58064,1): message : see previous definition of 'DXGI_STATUS_OCCLUDED'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58073,1): message : see previous definition of 'DXGI_STATUS_CLIPPED'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58082,1): message : see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58091,1): message : see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58100,1): message : see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58109,1): message : see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58118,1): message : see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58133,1): message : see previous definition of 'DXGI_ERROR_INVALID_CALL'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58142,1): message : see previous definition of 'DXGI_ERROR_NOT_FOUND'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58151,1): message : see previous definition of 'DXGI_ERROR_MORE_DATA'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58160,1): message : see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58169,1): message : see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58178,1): message : see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58188,1): message : see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58197,1): message : see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58207,1): message : see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58216,1): message : see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58226,1): message : see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58235,1): message : see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58244,1): message : see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58254,1): message : see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+X:\CATHOOK\loader MONARCH\SDK\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58263,1): message : see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+X:\CATHOOK\loader MONARCH\SDK\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58569,1): message : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+X:\CATHOOK\loader MONARCH\SDK\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58578,1): message : see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+X:\CATHOOK\loader MONARCH\SDK\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58588,1): message : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+X:\CATHOOK\loader MONARCH\SDK\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58597,1): message : see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+X:\CATHOOK\loader MONARCH\SDK\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58545,1): message : see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+X:\CATHOOK\loader MONARCH\SDK\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58554,1): message : see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(98,131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(98,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(98,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(98,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(94,70): warning C4390: ';': empty controlled statement found; is this the intent?
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(116,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(120,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(123,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(141,22): warning C4459: declaration of 'hwnd' hides global declaration
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(88,6): message : see declaration of 'hwnd'
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(218,218): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(218,203): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(218,169): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(218,110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(453,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(493,42): warning C4456: declaration of 'tab_alpha' hides previous local declaration
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(355,30): message : see declaration of 'tab_alpha'
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(493,78): warning C4456: declaration of 'tab_add' hides previous local declaration
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(355,66): message : see declaration of 'tab_add'
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(493,104): warning C4456: declaration of 'active_tab' hides previous local declaration
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(355,92): message : see declaration of 'active_tab'
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(415,83): warning C4390: ';': empty controlled statement found; is this the intent?
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(426,132): warning C4390: ';': empty controlled statement found; is this the intent?
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(428,132): warning C4390: ';': empty controlled statement found; is this the intent?
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(430,133): warning C4390: ';': empty controlled statement found; is this the intent?
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(432,132): warning C4390: ';': empty controlled statement found; is this the intent?
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(261,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(228,11): warning C4101: 'mouse': unreferenced local variable
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(262,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp(325,31): warning C4189: 'pos': local variable is initialized but not referenced
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 2004 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+freetype.lib(ftinit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftinit.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbase.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbase.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsynth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsynth.obj)' or at ''; linking object as if no debug info
+freetype.lib(autofit.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(autofit.obj)' or at ''; linking object as if no debug info
+freetype.lib(truetype.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(truetype.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1.obj)' or at ''; linking object as if no debug info
+freetype.lib(cff.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(cff.obj)' or at ''; linking object as if no debug info
+freetype.lib(type1cid.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type1cid.obj)' or at ''; linking object as if no debug info
+freetype.lib(pfr.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pfr.obj)' or at ''; linking object as if no debug info
+freetype.lib(type42.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(type42.obj)' or at ''; linking object as if no debug info
+freetype.lib(winfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(winfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(pcf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pcf.obj)' or at ''; linking object as if no debug info
+freetype.lib(bdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(bdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(psaux.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psaux.obj)' or at ''; linking object as if no debug info
+freetype.lib(psmodule.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(psmodule.obj)' or at ''; linking object as if no debug info
+freetype.lib(pshinter.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(pshinter.obj)' or at ''; linking object as if no debug info
+freetype.lib(sfnt.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sfnt.obj)' or at ''; linking object as if no debug info
+freetype.lib(smooth.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(smooth.obj)' or at ''; linking object as if no debug info
+freetype.lib(raster.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(raster.obj)' or at ''; linking object as if no debug info
+freetype.lib(sdf.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(sdf.obj)' or at ''; linking object as if no debug info
+freetype.lib(svg.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(svg.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftsystem.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftsystem.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftbitmap.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftbitmap.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftgzip.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftgzip.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftlzw.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftlzw.obj)' or at ''; linking object as if no debug info
+freetype.lib(ftdebug.obj) : warning LNK4099: PDB '' was not found with 'freetype.lib(ftdebug.obj)' or at ''; linking object as if no debug info
+  example_win32_directx11.vcxproj -> X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\example_win32_directx11.exe
