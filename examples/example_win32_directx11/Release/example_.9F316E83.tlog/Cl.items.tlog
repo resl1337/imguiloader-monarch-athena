@@ -1,0 +1,8 @@
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\imgui.cpp;X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\imgui.obj
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\imgui_draw.cpp;X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\imgui_draw.obj
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\imgui_freetype.cpp;X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\imgui_freetype.obj
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\imgui_tables.cpp;X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\imgui_tables.obj
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\imgui_widgets.cpp;X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\imgui_widgets.obj
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\backends\imgui_impl_dx11.cpp;X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\imgui_impl_dx11.obj
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\backends\imgui_impl_win32.cpp;X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\imgui_impl_win32.obj
+X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\main.cpp;X:\HOWIEHOOK\loader MONARCH\loader MONARCH\examples\example_win32_directx11\Release\main.obj
